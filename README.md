@@ -12,4 +12,5 @@ How To Play:
 Othe Notes:
 
 *The Windows build is not the most stable, to get the full experience try using a Mac
+
 *Source code can be provided but only to recruiters. Please email contact your applicant or email foyezurmrahman@gmail.com
