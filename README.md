@@ -1,6 +1,7 @@
 # YouMatterStudiosProjectEwo
 YouMatter Studios Project Ewo Playable Beta
 
+The files were too big (2GB) and therfore I was not able to upload it to github. You can play the beta using this Google Drive link https://drive.google.com/drive/folders/1AWxOmQ2D49negWBMTM3YWG_VTFll6fj1?usp=sharing 
 Please read more about us at https://youmatterstudios.com 
 
 How To Play:
